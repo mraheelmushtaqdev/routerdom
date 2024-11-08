@@ -1,0 +1,19 @@
+.navb{
+  background-color: rgb(206, 204, 213);
+  padding: 11px;
+}
+ul{
+  display: flex;
+  justify-content: space-around;
+  
+}
+ul li {
+  
+  font-size: 28px;
+  text-decoration: none;
+  margin-inline: 22px;
+  list-style: none;
+}
+.active{
+  color: aqua;
+}
